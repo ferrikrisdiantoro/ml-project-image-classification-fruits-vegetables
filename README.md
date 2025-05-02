@@ -81,7 +81,7 @@ Training scripts and exploratory analysis can be found in the notebook/ director
 **Ferrikris Diantoro**  
 *Data Scientist | Full-stack Developer*  
 📧 [ferrik935@gmail.com](mailto:ferrik935@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/ferrikrisdiantoro) | [GitHub](https://github.com/ferrikrisdiantoro)
+🔗 [LinkedIn](https://linkedin.com/in/ferrikrisdiantoro) | [GitHub](https://github.com/ferrikrisdiantoro)
 
 ---
 
