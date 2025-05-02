@@ -29,14 +29,14 @@ A full-stack web application for classifying fruit and vegetable images using a 
 
 ## 📁 Project Structure
 
+```bash
 ml-project-image-classification-fruits-vegetables/
-├── API/ # Flask backend for prediction
-├── frontend/ # ReactJS frontend interface
-├── model/ # Model files and download script
-├── notebook/ # Jupyter notebook for training & evaluation
-└── README.md # Project documentation
-
-
+├── API/           # Flask backend for prediction
+├── frontend/      # ReactJS frontend interface
+├── model/         # Model files and download script
+├── notebook/      # Jupyter notebook for training & evaluation
+└── README.md      # Project documentation
+```
 ---
 
 ## 🚀 How to Run Locally
@@ -68,14 +68,24 @@ npm run dev
 
 Visit http://localhost:5173 to access the web app.
 
-# 📊 Model Training Details
+## 📊 Model Training Details
 
 The model was trained on a 32-class fruit and vegetable image dataset from Kaggle. Swin Transformer and ResNet were fine-tuned, and their predictions were combined using an SVM classifier to improve generalization. The final model achieved 98% accuracy on the test set.
 
 Training scripts and exploratory analysis can be found in the notebook/ directory.
 
-# 👤 Author
-Ferri krisdiantoro
-Data Scientist | Full-stack Developer
-📧 ferrik935@gmail.com
-🔗 LinkedIn | GitHub
+---
+
+## 👤 Author
+
+**Ferrikris Diantoro**  
+*Data Scientist | Full-stack Developer*  
+📧 [ferrikris@example.com](mailto:ferrikris@example.com)  
+🔗 [LinkedIn](https://linkedin.com/ferrikrisdiantoro) | [GitHub](https://github.com/ferrikrisdiantoro)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
